@@ -1,8 +1,10 @@
 ---------------------------------
-#       Simple Autoclick        #
+#     Simple Autoclick Update     # 
 ---------------------------------
 
 RELEASE 14/01/2016:
+
+Version: 0.1
 
 First release Autoclick
 
